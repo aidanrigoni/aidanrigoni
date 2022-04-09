@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aidanrigoni
 - 👀 I’m interested in ML, AI and business automation
-- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me: Here or on LinkedIn
 
 <!---
